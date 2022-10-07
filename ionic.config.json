@@ -1,0 +1,7 @@
+{
+  "name": "manageTask",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
